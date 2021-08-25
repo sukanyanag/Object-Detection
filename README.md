@@ -7,4 +7,4 @@ Deep Learning models for Object Detection
 ResNet50 <br>
 Inception-ResNet-v2 <br>
 VGG-16 <br>
-EfficientDet <br>
+EfficientDet (d0 and d7) <br>
